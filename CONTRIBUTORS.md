@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [MikeRossX7](https://github.com/MikeRossX7)
+- Place: Brazil
+- Bio: Web developer
+- Github: [MikeRossX7](https://github.com/MikeRossX7)
+
